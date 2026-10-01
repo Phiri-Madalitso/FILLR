@@ -1,2 +1,5 @@
 # FILLR
-Realtime Status report applikasjon  on unfilled soap-dispeners and paper-statiation at the gym.
+
+A real-time status report app that shows which soap dispensers and paper stations at the gym need refilling.
+
+**Status:** planning.
